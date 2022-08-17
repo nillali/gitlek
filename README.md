@@ -9,7 +9,7 @@ public class Main {
 }
 ```
 ```img
-![alt text](/Users/pernillalindstrom/gitlek/hemkatalog.jpeg)
+![alt text](https://source.unsplash.com/random/1600x900?apple)
 ``` 
 
 # gitlek
