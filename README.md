@@ -8,8 +8,7 @@ public class Main {
   }
 }
 ```
-```img
-![alt text](https://source.unsplash.com/random/1600x900?apple)
-``` 
+
+![alt text](https://source.unsplash.com/random/1600x900?apple) 
 
 # gitlek
