@@ -29,4 +29,8 @@ public class Main {
 - This is two
 - This is three
 
+> “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.”
+
+– Bernard M. Baruch
+
 # gitlek
