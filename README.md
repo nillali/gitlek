@@ -2,7 +2,11 @@
 let a = "hello";
 ```
 ```java
-java.util.Date = java.text.DateFormat.getDateInstance().parse(date String);
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
 ```
 
 # gitlek
