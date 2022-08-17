@@ -18,4 +18,7 @@ public class Main {
 | Table | Table |
 | Table | Table |
 
+**This is bold text**
+*This is italic text*
+
 # gitlek
