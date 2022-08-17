@@ -25,8 +25,8 @@ public class Main {
 
 * * *
 
-1. This is one
-2. This is two
-3. This is three
+- This is one
+- This is two
+- This is three
 
 # gitlek
