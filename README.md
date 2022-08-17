@@ -13,9 +13,9 @@ public class Main {
 
 [Länk till Google](https://www.google.com)
 
-| Syntax | Description |
+| Table | Table |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Table | Table |
+| Table | Table |
 
 # gitlek
