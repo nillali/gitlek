@@ -9,7 +9,7 @@ public class Main {
 }
 ```
 ```img
-![alt text](hemkatalog.jpeg)
+![alt text](/Users/pernillalindstrom/gitlek/hemkatalog.jpeg)
 ``` 
 
 # gitlek
