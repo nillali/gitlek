@@ -17,7 +17,7 @@ public class Main {
 
 | Table | Table |
 | ----------- | ----------- |
-| Table | Table | Title    |
+| Table | Table |
 | Table | Table |
 
 **This is bold text**
