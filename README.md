@@ -86,7 +86,3 @@ erDiagram
         int age    
 }
 ```
-4. Testing
-1. testing 
-5. Testing 
-
