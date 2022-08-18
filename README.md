@@ -35,6 +35,7 @@ public class Main {
 
 This is a ``highlighted``word :) 
 
+# Sequence Diagram
 ```mermaid
 sequenceDiagram
     participant Alice
@@ -48,6 +49,7 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 ```
+# Class diagram
 ```mermaid
 classDiagram
 Class01 <|-- AveryLongClass : Cool
