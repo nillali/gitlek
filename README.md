@@ -90,8 +90,9 @@ erDiagram
 
 ```mermaid
 sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    John-->>Alice: Great!
+    actor Client
+    Client->>Server: Wants to autenticate, sends over email and password.
+    Server-->>Client: Great!
     Alice-)John: See you later!
 ```
 
