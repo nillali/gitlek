@@ -92,7 +92,11 @@ erDiagram
 sequenceDiagram
     actor Client
     Client->>Server: Wants to autenticate, sends over email and password.
-    Server-->>Client: Great!
-    Client-)Server: See you later!
+    Note right of Server: Checks email and password
+    Server-->>Client: Sends back encrypted JWT.
+    Note left of Client: Stores JWT in browser.
+    Client->>Server: Requests access to webpage.
+    Note right of Client: Authorizes
+    Server-->>Client: If authorized, sends back requested files
 ```
 
