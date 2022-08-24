@@ -93,6 +93,6 @@ sequenceDiagram
     actor Client
     Client->>Server: Wants to autenticate, sends over email and password.
     Server-->>Client: Great!
-    Alice-)John: See you later!
+    Client-)Server: See you later!
 ```
 
