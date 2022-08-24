@@ -96,7 +96,7 @@ sequenceDiagram
     Server-->>Client: Sends back encrypted JWT.
     Note left of Client: Stores JWT in browser.
     Client->>Server: Requests access to webpage.
-    Note right of Client: Authorizes
+    Note right of Server: Authorizes
     Server-->>Client: If authorized, sends back requested files
 ```
 
